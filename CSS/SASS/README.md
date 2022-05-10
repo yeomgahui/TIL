@@ -8,3 +8,4 @@
   BEM 관련 링크 
   
   1. https://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/
+  2. https://nykim.work/15  :BEM 예시
